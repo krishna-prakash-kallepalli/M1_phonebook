@@ -9,3 +9,6 @@
 
 
 [![Analysis](https://github.com/krishna-prakash-kallepalli/M1_phonebook/actions/workflows/Analysis.yml/badge.svg)](https://github.com/krishna-prakash-kallepalli/M1_phonebook/actions/workflows/Analysis.yml)
+
+
+[![Bulid CI - windows](https://github.com/krishna-prakash-kallepalli/M1_phonebook/actions/workflows/windows.yml/badge.svg)](https://github.com/krishna-prakash-kallepalli/M1_phonebook/actions/workflows/windows.yml)
