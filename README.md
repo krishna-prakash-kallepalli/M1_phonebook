@@ -12,3 +12,5 @@
 
 
 [![Bulid CI - windows](https://github.com/krishna-prakash-kallepalli/M1_phonebook/actions/workflows/windows.yml/badge.svg)](https://github.com/krishna-prakash-kallepalli/M1_phonebook/actions/workflows/windows.yml)
+
+[![Build_CI - Linux](https://github.com/krishna-prakash-kallepalli/M1_phonebook/actions/workflows/Linux.yml/badge.svg)](https://github.com/krishna-prakash-kallepalli/M1_phonebook/actions/workflows/Linux.yml)
