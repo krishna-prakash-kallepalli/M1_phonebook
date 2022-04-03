@@ -4,3 +4,5 @@
 ![codiga grade](https://api.codiga.io/project/32541/status/svg)
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/6f28c4f9bebe4e48b166c390a5da9c28)](https://www.codacy.com/gh/krishna-prakash-kallepalli/M1_phonebook/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=krishna-prakash-kallepalli/M1_phonebook&amp;utm_campaign=Badge_Grade)
+
+[![Code Quality - Cppcheck](https://github.com/krishna-prakash-kallepalli/M1_phonebook/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/krishna-prakash-kallepalli/M1_phonebook/actions/workflows/c-cpp.yml)
